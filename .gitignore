@@ -11,7 +11,3 @@ __pycache__/
 
 # pytest
 .pytest_cache/
-
-# OS
-.DS_Store
-Thumbs.db
